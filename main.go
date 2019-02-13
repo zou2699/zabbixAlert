@@ -1,4 +1,4 @@
-// zabbix alter
+// zabbix alert
 // GOARCH=amd64 GOOS=linux go build -o zabbixAlert main.go
 
 package main
